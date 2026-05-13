@@ -1,6 +1,6 @@
 # ODT
 
-kdubuc/odt is a library to quickly generate Open Document Text-files using a simple templating mechanism. Spiritual successor to [odtphp](https://github.com/cybermonde/odtphp).
+metarisc-odt/base-odt-template is a library to quickly generate Open Document Text-files using a simple templating mechanism. Spiritual successor to [odtphp](https://github.com/cybermonde/odtphp).
 
 UNDER ACTIVE DEVELOPMENT - EXPECT BC BREAKS
 
@@ -9,7 +9,7 @@ UNDER ACTIVE DEVELOPMENT - EXPECT BC BREAKS
 Via Composer
 
 ``` bash
-$ composer require kdubuc/odt
+$ composer require metarisc-odt/base-odt-template
 ```
 
 ## Documentation
